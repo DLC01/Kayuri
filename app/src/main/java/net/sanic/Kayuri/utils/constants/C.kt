@@ -16,9 +16,9 @@ class C {
         const val SEARCH_URL = "/search.html"
 
         //Gogoanime Secrets
-        var GogoSecretkey = "93106165734640459728346589106791"
-        var GogoSecretIV = "8244002440089157"
-        var GogoSecretSecondKey = "97952160493714852094564712118349"
+        var GogoSecretkey = "37911490979715163134003223491201"
+        var GogoSecretIV = "3134003223491201"
+        var GogoSecretSecondKey = "54674138327930866480207815084989"
         val GogoPadding= byteArrayOf(0x8,0xe,0x3,0x8,0x9,0x3,0x4,0x9)
 
         //Model Type
